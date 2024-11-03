@@ -1,0 +1,35 @@
+{
+    "name": "one_solution_c",
+    "short_name": "one_solution_c",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "The OneSolutionC app is an integrated platform that leverages the Odoo ERP system to provide advanced technological solutions that meet the needs of individuals and businesses. The app enables users to manage their resources effectively through an easy-to-use interface, facilitating data tracking and daily operations management. With integration to Odoo, the app offers various features such as inventory management, accounting, and customer relationship management, enhancing efficiency and increasing productivity.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
