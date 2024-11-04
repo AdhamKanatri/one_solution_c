@@ -90,6 +90,7 @@ class HomePage extends StatelessWidget {
                         if (value!.trim().isNotEmpty) {
                           orpcURL = "http://${value.trim()}:8069";
                         } else if (value.trim().isEmpty){
+                          //Default link
                           orpcURL = "http://192.168.43.132:8069";
                         }
                       },
